@@ -1,10 +1,3 @@
-body {
-  background-color: #ff7b54;
-  color: #ffffff;
-  font-family: "Inter", sans-serif;
-}
+@import './base.css';
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
+
